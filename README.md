@@ -1,8 +1,8 @@
-## 📊 HR Analytics Dashboard
+##  HR Analytics Dashboard
 
 This Tableau dashboard provides a detailed analysis of employee attrition and related HR metrics. It helps in understanding workforce dynamics and identifying key areas to improve employee retention.
 
-### 🔍 Key Insights Covered:
+###  Key Insights Covered:
 
 - **Overall Metrics:**
   - Total Employees: 1,470
@@ -25,11 +25,11 @@ This Tableau dashboard provides a detailed analysis of employee attrition and re
   - Job satisfaction rating (1 to 4) by job role
   - Roles like Research Scientist and Sales Executive show varying levels of satisfaction
 
-### 📌 Tools & Skills Used:
+###  Tools & Skills Used:
 - Tableau
 - Data Visualization Best Practices
 - HR Metrics Analysis
 - Pie Charts, Bar Charts, Highlight Tables, and Age Binning
 
-### 📈 Objective:
+###  Objective:
 To uncover trends and patterns related to employee attrition that can help HR teams make data-driven decisions for employee retention and satisfaction.
